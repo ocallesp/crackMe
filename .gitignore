@@ -1,0 +1,9 @@
+*.out
+*.o
+checkports
+client
+crack_pass
+server
+forks
+.crack_pass.c.swp
+server_udp
